@@ -35,7 +35,7 @@ At first, I decided to use pixel style. After learning Qt on bilibili, I spent m
 
 当时为了写这个还加了一个qt技术群，感谢群主无偿地回答了我一个怎么搞也搞不懂的问题，顺便，**他在看完我的代码之后作出了“代码写得真烂”的评价**，我听了大喜，引以为知音。
 
-## 结果如何
+## 结果如何 RESULT
 
 最后老师给的评价还不错，当然针对我使用的算法他没有评价，但是表示我的项目“**很有意思**的样子”。
 My teacher said my project "seems interesting".
