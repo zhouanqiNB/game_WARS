@@ -1,6 +1,10 @@
 1. 程序开发故事
 2. 原作开发故事
 3. 这里有什么
+4. 参考链接
+5. 最后
+
+
 # 程序开发故事
 
 ## 这是个什么
@@ -83,6 +87,12 @@
 
 - 程序文档
 - 答辩时做的ppt
+
+
+# 参考链接
+1. b站qt教程：https://www.bilibili.com/video/BV1XW411x7NU?from=search&seid=338238046811018805
+2. innoSetup打包setup教程（这个教程真的很不戳！）：https://www.cnblogs.com/linuxAndMcu/p/10974927.html
+
 
 # 最后
 别骂了别骂了，我的代码真的很烂呜呜呜
