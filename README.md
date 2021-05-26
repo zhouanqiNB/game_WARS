@@ -15,7 +15,7 @@
 
 顺便一提，因为个人水平不够，我还简化了很多内容QAQ。
 
-> By the way, because of my terrible coding skills, I threw many elements which exists in the origin game.
+> By the way, because of my terrible coding skills, I gave up many interesting elements which exists in the origin game.
 
 ## 我是咋写的 HOW DID I WRITE IT
 
