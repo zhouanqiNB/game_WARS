@@ -1,13 +1,13 @@
-1. 程序开发故事
-2. 原作开发故事(包含原作贴吧链接)
-3. 这里有什么
-4. 参考链接
-5. 最后
+1. 程序开发故事 Story of Programming
+2. 原作开发故事(包含原作贴吧链接) Story of Game Designing
+3. 这里有什么 What is contained here
+4. 参考链接 References
+5. 最后 
 
 
-# 程序开发故事
+# 程序开发故事 Story of Programming
 
-## 这是个什么 WHAT'S THIS
+## 这是个什么 What's this
 
 这是我大一末（2020暑假）写的C++大作业，可视化用的是Qt。实现了我弟弟设计的一个桌游，我给它取名叫**WARS**。
 
@@ -17,7 +17,7 @@
 
 > By the way, because of my terrible coding skills, I gave up many interesting elements which exists in the origin game.
 
-## 我是咋写的 HOW DID I WRITE IT
+## 我是咋写的 How did I finished it 
 
 因为疫情的缘故，大作业推迟到八月末提交，所以我写了一个多月，每天爬起来就是写这个游戏，睡觉之前也是想这个游戏。
 
@@ -41,7 +41,7 @@
 
 当时为了写这个还加了一个qt技术群，感谢群主无偿地回答了我一个怎么搞也搞不懂的问题，顺便，**他在看完我的代码之后作出了“代码写得真烂”的评价**，我听了大喜，引以为知音。
 
-## 结果如何 RESULT
+## 结果如何 Result
 
 最后老师给的评价还不错，当然针对我使用的算法他没有评价，但是表示我的项目“**很有意思**的样子”。
 
@@ -51,9 +51,9 @@
 
 > This made me happy.
 
-# 原作开发故事
+# 原作开发故事 Story of Game Designing
 
-## 原作开发背景
+## 原作开发背景 Background
 
 这游戏是我弟弟自己设计的。
 
@@ -65,7 +65,7 @@
 
 而且据我观察，他好像经常会沉浸于自己的世界，在一个笔记本上不停地画表格填数字测平衡性，我只能瑞思拜。
 
-## 原作发展历史
+## 原作发展历史 History of Development
 
 - 2018年8月，他开始在百度贴吧发帖，第一个帖子里，他给出的地图是用powerpoint画完然后截图的，各种图标也非常简陋。虽然这个吧很小众，还是有很多善意的人回帖鼓励他。
 
@@ -75,7 +75,7 @@
 
   我的项目就是基于这一版游戏的。帖子链接：https://tieba.baidu.com/p/6222886492?pid=127032793492&cid=#127032793492
 
-## 发表个人感慨
+## 发表个人感慨 I have something to say
 
 我弟弟小学的时候，我上高中，对学习以外的事情丝毫不感兴趣，我懒得去了解他在做什么。我爸我妈当然更不了解。
 
@@ -94,7 +94,7 @@
 
 我突然很庆幸我初二的时候注册了俩贴吧号，给我弟弟留了一个6年吧龄的号，即使id头像极其非主流，但是也减少了先入为主骂他小学生的人。
 
-# 这里有什么
+# 这里有什么 What is contained here
 
 - 源代码
 - setup文件
@@ -103,11 +103,12 @@
 - 答辩时做的ppt
 
 
-# 参考链接
+# 参考链接 References
 1. b站qt教程：https://www.bilibili.com/video/BV1XW411x7NU?from=search&seid=338238046811018805
 2. innoSetup打包setup教程（这个教程真的很不戳！）：https://www.cnblogs.com/linuxAndMcu/p/10974927.html
 3. 我是在这里画的像素画：https://www.pixilart.com/draw
 
 
-# 最后
+# 最后 At last
 别骂了别骂了，我的代码真的很烂呜呜呜
+> I am really a vegetable dog.
