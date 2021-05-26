@@ -7,21 +7,27 @@
 
 # 程序开发故事
 
-## 这是个什么
+## 这是个什么 WHAT'S THIS
 
 这是我大一末（2020暑假）写的C++大作业，可视化用的是Qt。实现了我弟弟设计的一个桌游，我给它取名叫**WARS**。
+This is my Term Project of C++ in 2020, Summer. I use Qt to visualize it. It implements a board game designed by my younger brother. I name it as "WARS".
 
 > 顺便一提，因为个人水平不够，我还简化了很多内容QAQ。
+> By the way, because of my terrible coding skills, I threw many elements which exists in the origin game.
 
-## 我是咋写的
+## 我是咋写的 HOW DID I WRITE IT
 
 因为疫情的缘故，大作业推迟到八月末提交，所以我写了一个多月，每天爬起来就是写这个游戏，睡觉之前也是想这个游戏。
+Because of COVID-19, the assignment was postponed to the end of Augest. So I spent more than a month on this. I think about this game from morning to night.
 
 那时候我六月返校，而且暑假没回家，七到八月整天就在宿舍里吹着空调抠着脚，要么躺着要么趴在电脑桌子前面。
+I returned to school in June and did not go home during summer. I stayed in my dormitory all day long to enjoy the air conditioning. If I was not lying on my bed, I must be sitting in front of my pc.
 
 因为完全是原创的游戏，所有东西都要自己搞。
+I need to do everything since this is a totally new game.
 
 我先决定了要用像素风格的图片；在b站速成qt以后，画了一个多星期的界面设计图；然后绘制了一大堆程序要用的图；最后才开始写代码（当然在写程序的过程中也不断地改图）。
+At first, I decided to use pixel style. After learning Qt on bilibili, I spent more than a week to do the design drawing. Then I drew all the pictures online. At last, I began to program.
 
 我那时候发动态调侃自己花在PS上的时间远远大于花在写代码上的时间。结果也和这个时间分配很匹配：画面不算简陋，但是代码性能真是没眼看。
 
@@ -32,8 +38,10 @@
 ## 结果如何
 
 最后老师给的评价还不错，当然针对我使用的算法他没有评价，但是表示我的项目“**很有意思**的样子”。
+My teacher said my project "seems interesting".
 
-这个评价已经令我很开心了
+这个评价已经令我很开心了。
+This made me happy.
 
 # 原作开发故事
 
@@ -92,6 +100,7 @@
 # 参考链接
 1. b站qt教程：https://www.bilibili.com/video/BV1XW411x7NU?from=search&seid=338238046811018805
 2. innoSetup打包setup教程（这个教程真的很不戳！）：https://www.cnblogs.com/linuxAndMcu/p/10974927.html
+3. 我是在这里画的像素画：https://www.pixilart.com/draw
 
 
 # 最后
