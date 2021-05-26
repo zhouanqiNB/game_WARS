@@ -112,3 +112,6 @@
 # 最后 At last
 别骂了别骂了，我的代码真的很烂呜呜呜
 > I am really a vegetable dog.
+
+而且，令人感慨的是，我弟弟，一边上着学，一边用python又实现了一遍……图用的是我的图没错，他竟然连技能都写出来了！！！
+> Sigh...My brother implemented this game using python while going to high school...He even implemented the skills of hero!
