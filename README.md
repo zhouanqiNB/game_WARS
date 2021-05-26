@@ -10,7 +10,7 @@
 ## 这是个什么 WHAT'S THIS
 
 这是我大一末（2020暑假）写的C++大作业，可视化用的是Qt。实现了我弟弟设计的一个桌游，我给它取名叫**WARS**。
-This is my Term Project of C++ in 2020, Summer. I use Qt to visualize it. It implements a board game designed by my younger brother. I name it as "WARS".
+This is my Term Project of C++ in 2020, Summer. I use Qt to visualize it. It implements a board game designed by my younger brother. I named it as "WARS".
 
 > 顺便一提，因为个人水平不够，我还简化了很多内容QAQ。
 > By the way, because of my terrible coding skills, I threw many elements which exists in the origin game.
